@@ -1,8 +1,8 @@
 // Task 1
 let cityList = ["St. Louis", "Chicago", "Amsterdam", "Tokyo", "Copenhagen"];
 cityList.forEach(city => {
-    console.log(city.toUpperCase);
-}) // Why doesn't this work?
+    console.log(city.toUpperCase());
+}) // ST. LOUIS CHICAGO AMSTERDAM TOKYO COPENHAGEN
 
 // Task 2
 let numbers = [1, 2, 3, 4, 5];
